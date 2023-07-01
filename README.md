@@ -3,4 +3,5 @@ Prototype Application for Bio-Metric Payment System for ALX project and my portf
 
 ## and here we come #$
 
-Forked again 
+
+schedule begins July 4th for the next moths 
